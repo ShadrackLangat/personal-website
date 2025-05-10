@@ -158,6 +158,11 @@ html {
   .project-link:hover {
       text-decoration: underline;
   }
+  #poem {
+    background-color: #f0f4f8;
+    padding: 4rem 2rem;
+  }
+  
   
   /* Skills */
   .skills-list {
