@@ -24,7 +24,7 @@ html {
   
   /* Navigation */
   nav {
-      background-color: #1f2d3d;
+      background-color: hsl(263, 69%, 35%);
       padding: 1rem 2rem;
       position: fixed;
       width: 100%;
@@ -242,10 +242,11 @@ html {
   }
   
   /* Responsive Design */
-  @media (max-width: 768px) {
-      .hamburger {
-          display: block;
-      }
+  @media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
   
       .nav-links {
           display: none;
