@@ -24,7 +24,7 @@ html {
   
   /* Navigation */
   nav {
-      background-color: hsl(263, 69%, 35%);
+      background-color: #1f2d3d;
       padding: 1rem 2rem;
       position: fixed;
       width: 100%;
@@ -59,7 +59,7 @@ html {
   }
   
   .nav-links a:hover {
-      color: #0077cc;
+      color: #00cfff;;
   }
   
   .hamburger {
