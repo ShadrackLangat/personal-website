@@ -92,8 +92,8 @@ html {
   }
   
   .cta-button {
-      background-color: hwb(51 85% 9%);
-      color: white;
+     background-color: #ff9900; /* Bold orange */
+     color: #fff;
       padding: 0.9rem 2rem;
       text-decoration: none;
       border-radius: 6px;
@@ -103,6 +103,9 @@ html {
   
   .cta-button:hover {
       background-color: #003f8a;
+  }
+  .hero .cta-button {
+    margin-top: 1.5rem;
   }
   
   /* Sections */
