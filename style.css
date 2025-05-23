@@ -92,7 +92,7 @@ html {
   }
   
   .cta-button {
-      background-color: #0057b8;
+      background-color: hwb(51 85% 9%);
       color: white;
       padding: 0.9rem 2rem;
       text-decoration: none;
