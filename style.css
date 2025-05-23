@@ -141,7 +141,7 @@ html {
       background-color: #ffffff;
       padding: 1.5rem;
       border-radius: 8px;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+      box-shadow: 0 2px 8px hwb(347 5% 50% / 0.078);
       text-align: center;
       transition: transform 0.3s ease;
   }
@@ -245,6 +245,7 @@ html {
   @media only screen and (max-width: 600px) {
     body {
       background-color: lightblue;
+      flex: 50%;
     }
   }
   
